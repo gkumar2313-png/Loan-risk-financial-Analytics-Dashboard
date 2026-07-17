@@ -202,7 +202,7 @@ Two interactive dashboards were created.
 
 ## Executive Dashboard
 
-![Executive Dashboard](images/executive_dashboard.png)
+![Executive Dashboard](executive_dashboard.png)
 
 ### KPIs
 
