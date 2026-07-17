@@ -225,7 +225,7 @@ Two interactive dashboards were created.
 
 ## Risk Analysis Dashboard
 
-![Risk Analysis Dashboard](images/risk_analysis_dashboard.png)
+![Risk Analysis Dashboard](risk_analysis_dashboard.png)
 
 ### Visualizations
 
